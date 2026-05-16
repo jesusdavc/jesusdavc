@@ -28,7 +28,7 @@
 
 ---
 
-> "The only way to go fast is to go well." — Robert C. Martin
+> "The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience." Mark Manson. 
 <!--
 **jesusdavc/jesusdavc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
