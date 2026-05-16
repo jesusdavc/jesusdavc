@@ -17,20 +17,13 @@
 
 ### 🌐 Let's Connect / Hablemos
 
-| Property | Description |
+| Language | Description |
 | :--- | :--- |
 | **Spanish** | Futuro Ingeniero de Computación apasionado por el desarrollo web y UX/UI. Aunque poseo un perfil generalista en IT, me especializo en frameworks modernos y herramientas de computación gráfica como **ThreeJS**. Uso la IA para potenciar mi aprendizaje y flujo de trabajo. Fiel creyente de la mejora continua. |
 |      |       |
 | **English** | Future Computer Engineer passionate about web development and UX/UI. While I have a generalist IT background, I specialize in modern frameworks and computer graphics tools like ThreeJS. I use AI to enhance my learning and workflow. A firm believer in continuous improvement. |
 
 
-
----
-
-### 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusdavc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdavc&layout=compact&theme=radical)
 
 ---
 
