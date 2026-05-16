@@ -1,8 +1,10 @@
-# Hi there! I'm [Tu Nombre] 👋
+# Hi there! I'm Jesus David Cuellar 👋
 
 ### 🚀 Future Computer Engineer | Web Developer | UX/UI Enthusiast
 
 ---
+
+| **Socials** | [LinkedIn](https://www.linkedin.com/in/jesusdavc/) | [Email](mailto:jedave.co@gmail.com) |
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,7 +23,7 @@
 |      |       |
 | **English** | Future Computer Engineer passionate about web development and UX/UI. While I have a generalist IT background, I specialize in modern frameworks and computer graphics tools like ThreeJS. I use AI to enhance my learning and workflow. A firm believer in continuous improvement. |
 
-| **Socials** | [LinkedIn](https://www.linkedin.com/in/jesusdavc/) | [Email](mailto:jedave.co@gmail.com) |
+
 
 ---
 
