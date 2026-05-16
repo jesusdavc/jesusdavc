@@ -3,19 +3,20 @@
 ### 🚀 Future Computer Engineer | Web Developer | UX/UI Enthusiast
 
 ---
+### 🌐 Let's Connect / Hablemos
 
-| **Socials** | [LinkedIn](https://www.linkedin.com/in/jesusdavc/) | [Email](mailto:jedave.co@gmail.com) |
+| **Socials** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusdavc)| [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jedave.co@gmail.com) |
 
 ### 🛠️ Tech Stack & Tools
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React/Next.js.
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js.
 * **Creative Tech:** Three.js, WebGL, UI/UX Design (Figma).
-* **Workflow:** Git, GitHub, AI-Assisted Development.
-* **General IT:** Software Architecture, Problem Solving, Systems Analysis.
+* **Workflow:** Git, GitHub, AI-Assisted Development
+* **General IT:** Software Architecture, Problem Solving, Systems Analysis, Linux Terminal
 
 ---
 
-### 🌐 Let's Connect / Hablemos
+
 
 | Language | Description |
 | :--- | :--- |
