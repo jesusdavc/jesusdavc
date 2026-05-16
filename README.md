@@ -1,6 +1,6 @@
 # Hi there! I'm Jesus David Cuellar 👋
 
-### 🚀 Future Computer Engineer | Web Developer | UX/UI Enthusiast
+### 🚀 Future Computer Engineer | Web Developer | IA pro user
 
 ---
 ### 🌐 Let's Connect / Hablemos
