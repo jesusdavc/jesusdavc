@@ -1,6 +1,6 @@
 # Hi there! I'm Jesus David Cuellar 👋
 
-### 🚀 Future Computer Engineer | Web Developer | IA Pro User
+### 🚀 Computer Engineer | Web Developer | Building AI-First Applications
 
 ---
 ### 🌐 Let's Connect / Hablemos
