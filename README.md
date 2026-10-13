@@ -1,34 +1,36 @@
-# Hi there! I'm Jesus David Cuellar 👋
+# Hi, I'm Jesus David Cuellar 👋
+### 🚀 Computer Engineer | Full-Stack Development & Cloud Infrastructure.
 
-### 🚀 Computer Engineer | Web Developer | Building AI-First Applications
 
----
-### 🌐 Let's Connect / Hablemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusdavc) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jedave.co@gmail.com) 
-
-### 🛠️ Tech Stack & Tools
-
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js.
-* **Creative Tech:** Three.js, WebGL, UI/UX Design (Figma).
-* **Workflow:** Git, GitHub, AI-Assisted Development
-* **General IT:** Software Architecture, Problem Solving, Systems Analysis, Linux Terminal
+Applying system design principles, active development with JavaScript & Python, and AI-assisted workflows to build modern web applications and cloud infrastructure.
 
 ---
 
+### 🌐 Connect with me / Hablemos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusdavc) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jedave.co@gmail.com)
 
-| Language | Description |
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+- **Programming Languages:** JavaScript, Python.
+- **Frontend & Web Core:** React.js, HTML5/CSS3, Three.js, WebGL.
+- **Backend & Databases:** Node.js, PostgreSQL, RESTful APIs.
+- **Systems & Infrastructure:** Linux Systems, Git/GitHub, Docker (Basics), AI-Assisted Workflows.
+- **Active Cloud Roadmap:** AWS Cloud Services.
+
+---
+
+| Language | Professional Focus |
 | :--- | :--- |
-| **Spanish** | Futuro Ingeniero de Computación apasionado por el desarrollo web y UX/UI. Aunque poseo un perfil generalista en IT, me especializo en frameworks modernos y herramientas de computación gráfica como **ThreeJS**. Uso la IA para potenciar mi aprendizaje y flujo de trabajo. Fiel creyente de la mejora continua. |
-|      |       |
-| **English** | Future Computer Engineer passionate about web development and UX/UI. While I have a generalist IT background, I specialize in modern frameworks and computer graphics tools like ThreeJS. I use AI to enhance my learning and workflow. A firm believer in continuous improvement. |
-
-
+| **Spanish** | Ingeniero de Computación enfocado en el **desarrollo Full-Stack e Infraestructura Cloud**. Utilizo **JavaScript y Python** como lenguajes principales, conectando interfaces web interactivas (React, Three.js) con servicios backend en Node.js y bases de datos PostgreSQL. Aplico desarrollo asistido por IA, entornos Linux y contenedores Docker, con la meta activa de profundizar en **despliegues en la nube con AWS**. |
+| **English** | Computer Engineer focused on **Full-Stack Development and Cloud Infrastructure**. I actively use **JavaScript and Python** for core development, connecting interactive web interfaces (React, Three.js) with Node.js backend services and PostgreSQL databases. I leverage AI-assisted workflows, Linux environments, and Docker containers, actively expanding toward **AWS cloud architecture**. |
 
 ---
 
-> "The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience." Mark Manson. 
+> "The desire for positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience." — Mark Manson
 <!--
 **jesusdavc/jesusdavc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
